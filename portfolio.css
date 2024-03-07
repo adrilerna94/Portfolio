@@ -1,0 +1,115 @@
+
+
+body{
+    background-image: url("fondoportfolioretocada.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: cover;
+    height: 100vh;
+    font-family: 'Jomhuria', sans-serif;
+}
+.iconperfil{
+    width:5%;
+    height:5%;
+}
+.menu{
+    width: 1%;
+    height: 1%;
+}
+
+
+.perfilgroup{
+    display: flex;
+    flex-flow:row wrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.perfiltext{
+    color:white;
+}
+
+.menu {
+    position: right;
+    margin-left: 50%;
+    margin-right:20%;
+    top: 0;
+    width: 10%; /* Ancho del menú */
+    height: 10%; /* Altura del menú (tamaño completo del viewport) */
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: center;
+  }
+  /* Estilos para los iconos del menú */
+  .menu a {
+    margin-bottom: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+    display: inline-block; /* Mostrar los elementos en línea uno al lado del otro */
+  }
+  /* Estilo para las imágenes */
+  .menu img {
+    width: 50%; /*Ancho de las imágenes */
+    height: 50%; /* Altura de las imágenes */
+  }
+
+  footer {
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-between; /* Espaciar uniformemente los enlaces a lo largo del contenedor */
+    align-items: center; /* Centrar los enlaces verticalmente */
+    max-width: 1200px; /* Ancho máximo del contenedor */
+    margin: 0 auto; /* Centrar el contenedor si no ocupa todo el ancho de la ventana */
+    padding: 0 15px; /* Padding lateral para que no peguen al borde de la pantalla */
+  }
+  
+  .footer-link {
+    margin: 0 20px; /* Aumentar el espacio entre los enlaces */
+  }
+  
+  .footer-link img {
+    height: 50px; /* Altura de los iconos */
+    width: auto;
+    display: block; /* Asegura que los íconos se traten como bloque para aplicar el margen correctamente */
+  }
+
+  main {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('background.jpg') center/cover;
+    color: white;
+ }
+  
+  .intro h1 {
+    font-size: 2em;
+    margin-bottom: 0;
+  }
+  
+  .intro p {
+    margin-top: 5px;
+  }
+  
+  .cv-download {
+    text-decoration: none;
+    color: white;
+    font-style: bold;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  /* Estilos para la imagen de perfil */
+  .profile-picture {
+    border-radius: 15px;
+    max-width: 300px;
+    height: auto;
+  }
