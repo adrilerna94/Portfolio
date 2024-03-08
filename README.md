@@ -22,5 +22,15 @@ He utilizado la metodología SCRUM agile.
 El primer sprint consiste en desplegar el menú, header, footer y body de la sección about me
 -> https://trello.com/b/653eNrP8/portafolio
 
+<h1>TECNOLOGÍAS</h1>
+<div>
+   <ul>
+      <li><p>HTML</p></li>
+      <li><p>CSS</p></li>
+      <li><p>GIT</p></li>
+   </ul>
+</div>
+
+
 
 
