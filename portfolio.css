@@ -1,5 +1,4 @@
 
-
 body{
     background-image: url("fondoportfolioretocada.jpg");
     background-size: cover;
@@ -32,14 +31,15 @@ body{
 .menu {
     position: right;
     margin-left: 50%;
-    margin-right:20%;
+    margin-right:10%;
     top: 0;
-    width: 10%; /* Ancho del menú */
-    height: 10%; /* Altura del menú (tamaño completo del viewport) */
+    width: 20%; /* Ancho del menú */
+    height: 20%; /* Altura del menú (tamaño completo del viewport) */
     display: flex;
     flex-direction: row;
     justify-content: right;
     align-items: center;
+    gap:40%;
   }
   /* Estilos para los iconos del menú */
   .menu a {
@@ -51,8 +51,9 @@ body{
   }
   /* Estilo para las imágenes */
   .menu img {
-    width: 50%; /*Ancho de las imágenes */
-    height: 50%; /* Altura de las imágenes */
+    width: 180%; /*Ancho de las imágenes */
+    height: 180%; /* Altura de las imágenes */
+    background-color: white;
   }
 
   footer {
