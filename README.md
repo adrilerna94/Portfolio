@@ -1,6 +1,19 @@
 <h1>PASOS PARA REALIZAR EL PROYECTO</h1>
 El proyecto consiste en realizar una web con nuestro portfolio de proyectos.
 Los pasos que he realizado para este proyecto han sido:
+<div>
+   <ol>
+      <li><p>Investigación de mercado: investigando diferentes portfolio para encontrar la inspiración y realizar un portfolio propio.</p></li>
+      <li><p>Realizar el sketch a papel</p></li>
+      <li><p>GIT</p></li>
+      <li><p>GIT</p></li>
+      <li><p>GIT</p></li>
+      <li><p>GIT</p></li>
+      <li><p>GIT</p></li>
+      <li><p>GIT</p></li>
+      <li><p>GIT</p></li>
+   </ol>
+</div>
 1) Investigación de mercado: investigando diferentes portfolio para encontrar la inspiración y realizar un portfolio propio.
 2) Realizar el sketch a papel
 -> https://drive.google.com/drive/folders/1NonpLOPO5vCqIhM2TJuc65fhbAxeezlG
