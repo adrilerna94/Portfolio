@@ -20,6 +20,7 @@ Los pasos que he realizado para este proyecto han sido:
 <h1>METODOLOGÍA</h1>
 He utilizado la metodología SCRUM agile.
 El primer sprint consiste en desplegar el menú, header, footer y body de la sección about me
+-> https://trello.com/b/653eNrP8/portafolio
 
 
 
