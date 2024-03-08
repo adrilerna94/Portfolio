@@ -1,3 +1,4 @@
+<h1>PASOS PARA REALIZAR EL PROYECTO</h1>
 El proyecto consiste en realizar una web con nuestro portfolio de proyectos.
 Los pasos que he realizado para este proyecto han sido:
 1) Investigación de mercado: investigando diferentes portfolio para encontrar la inspiración y realizar un portfolio propio.
@@ -11,3 +12,6 @@ Los pasos que he realizado para este proyecto han sido:
 6) Crear una rama aboutme en GIT
 7) Registrar los cambios con git add + nombre archivo
 8) Git push para subir los cambios al repo en GITHUB
+
+<h1>METODOLOGÍA</h1>
+
