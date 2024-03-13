@@ -12,9 +12,12 @@ Los pasos que he realizado para este proyecto han sido:
 -> https://www.figma.com/proto/6ass8YFjCwvMvVY2fqN7cH/Adri-Portfolio?type=design&node-id=8-16&t=25isg6IwVjGHiWSa-0&scaling=scale-down&page-id=0%3A1
    
 4) Desarrollarlo en HTML Y CSS
-5) Crear una rama aboutme en GIT
-6) Registrar los cambios con git add + nombre archivo
-7) Git push para subir los cambios al repo en GITHUB
+5) Configurar el proyecto con GIT (Añadir detalle)
+   5.1) Inicializar el proyecto con git en local con git init
+   5.2) Añadir los cambios con git add + nombre archivo
+   5.3) Confirmar cambios con git commit -m "first commit"
+   5.4) git clone para clonar
+   5.4) Git push para subir los cambios al repo en GITHUB
 
 <h1>METODOLOGÍA</h1>
 He utilizado la metodología SCRUM agile.
