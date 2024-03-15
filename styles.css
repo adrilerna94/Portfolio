@@ -1,7 +1,7 @@
  /*aplica a todos los elementos. nos va bien para saber la disposición de los elementos*/
-/* *{
+ /* *{
   border: 2px solid rgb(29, 48, 174);
-} */
+}  */
 
 
 body{
@@ -133,7 +133,7 @@ header{
     background-size: 100vw 100vh;
     background-position: cover;
     padding:40px;
-    margin-bottom: 5%;
+    margin-bottom: 0%;
     margin-left: 0%;
     margin-right: 0%;
   }
@@ -152,7 +152,7 @@ header{
   }
 
   .contact{
-    background-color: greenyellow;
+    background-color: whitesmoke;
     background-size: 100vw 100vh;
     background-position: cover;
     padding:0px;
@@ -170,4 +170,20 @@ header{
      border: 1px solid #ccc;
      border-radius: 1em;
     
+    }
+    /* Import de fuentes para los iconos del menú*/
+    @font-face {
+      font-family: iconmenufont;
+      src: url("fonts/icomoon.eot");
+      src: url("fonts/icomoon.svg");
+      src: url("fonts/icomoon.ttf");
+      src: url("fonts/icomoon.woff");
+      font-weight: bold;
+      font-style:normal;
+    }
+    #titlecontact{
+      padding:1%;
+      text-align: center;
+      color: white;
+      background-color: grey;
     }

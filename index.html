@@ -72,28 +72,31 @@
         </div>
     </section>
     <section id="contact" class="contact">     
-        <h4>CONTACT</h4>
+        <h4 id="titlecontact">CONTACT</h4>
         <form id="contactform" action="/action_page.php" method="post">
-            <fieldset>
+            <div id="firstname_box">
                 <label for="fname">First name</label>
                 <input type="text" id="fname" name="fname" required>
-            </fieldset>
-            <fieldset>
+            </div>
+            <div id="lastname_box">
                 <label for="lname">Last name</label>
                 <input type="text" id="lname" name="lname" required>
-            </fieldset>
+            </div>
+            <div id="email_box">
                 <label for="email">Email</label>
                 <input type="email" id="email" name="email" required>
-            <fieldset>
+            </div>
+            <div id="phone_box">
                 <label for="phone">Phone</label>
                 <input type="tel" name="phone" id="phone" pattern="[0-9]{9}" placeholder="Ejemplo:734512789">
-            </fieldset>
-            <fieldset>
+            </div>
+            <div id="textarea_box"> 
                 <label for="mensaje">Message</label>
                 <textarea id="mensaje" name="mensaje" rows="5" cols="50"></textarea>
-            </fieldset>
+            </div>
             <button type="submit" id= "submit" name="submit" value="Submit">Submit</button>
         </form> 
+          
     </section>
 
 <footer>
