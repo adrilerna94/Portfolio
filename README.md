@@ -42,17 +42,17 @@ El primer sprint consiste en desplegar el menú, header, footer y body de la sec
 
 # DEPLOY ➡️ 
 
-https://adrificherito-portfolio.netlify.app/
+Para visualizar la página haz click [AQUÍ](https://adrificherito-portfolio.netlify.app/)
+
 
 # RUN LOCALLY
 
 🤖 Clone el proyecto 🤖
 
- ➡️ git clone https://github.com/adrilerna94/Portfolio
+```bash
+ git clone https://github.com/adrilerna94/Portfolio
+ ```
 
- ➡️ git fork https://github.com/adrilerna94/Portfolio
-
-
-
-
-
+```bash
+ git fork https://github.com/adrilerna94/Portfolio
+ ```
